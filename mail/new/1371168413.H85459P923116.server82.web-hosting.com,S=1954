@@ -1,0 +1,50 @@
+Return-path: <>
+Envelope-to: illipcxk@server82.web-hosting.com
+Delivery-date: Thu, 13 Jun 2013 20:06:53 -0400
+Received: from mailnull by server82.web-hosting.com with local (Exim 4.80.1)
+	id 1UnHXZ-003s8s-0a
+	for illipcxk@server82.web-hosting.com; Thu, 13 Jun 2013 20:06:53 -0400
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@server82.web-hosting.com>
+To: illipcxk@server82.web-hosting.com
+Subject: Mail failure - rejected by local scanning code
+Message-Id: <E1UnHXZ-003s8s-0a@server82.web-hosting.com>
+Date: Thu, 13 Jun 2013 20:06:53 -0400
+
+A message that you sent was rejected by the local scanning code that
+checks incoming messages on this system. The following error was given:
+
+  "Relaying not permitted"
+
+------ This is a copy of your message, including all the headers. ------
+
+Received: from illipcxk by server82.web-hosting.com with local (Exim 4.80.1)
+	(envelope-from <illipcxk@server82.web-hosting.com>)
+	id 1UnHXY-003s8q-Vq
+	for jarnod13@gmail.com; Thu, 13 Jun 2013 20:06:52 -0400
+To: jarnod13@gmail.com
+Subject: =?UTF-8?B?TmV3IEluc3RhbGxhdGlvbiBvZiBwaHBCQg==?=
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+From: Softaculous <admin@199.188.200.3>
+Reply-To: admin@199.188.200.3
+X-Mailer: PHP/5.3.17
+Message-Id: <E1UnHXY-003s8q-Vq@server82.web-hosting.com>
+Sender:  <illipcxk@server82.web-hosting.com>
+Date: Thu, 13 Jun 2013 20:06:52 -0400
+
+A new installation of phpBB 3.0.11 has been completed. The details of the installation are shown below:
+Path : /home/illipcxk/public_html/phpbb
+URL : http://illiterati-guild.com/phpbb
+Admin URL : http://illiterati-guild.com/phpbb/index.php
+Admin Username : IlliteratiGuild
+Admin Password : @ssh0le
+Admin Email: admin@illiterati-guild.com
+MySQL Database : illipcxk_phpb363
+MySQL DB User : illipcxk_phpb363
+MySQL DB Host : localhost
+MySQL DB Password : z49Paug30S
+Update Notification : Enabled
+Auto Upgrade : Disabled
+Time of Installation : June 14, 2013, 12:06 am
+
