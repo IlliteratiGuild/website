@@ -1,0 +1,12 @@
+--- 
+__version: '2.1'
+illiterati-guild.com: 
+  account_count: 1
+  accounts: 
+    admin: 
+      disk_mtime: '1371251554'
+      diskquota: 262144000
+      diskused: 0
+  disk_mtime: '1371251554'
+  passwd_mtime: '1371251554'
+  quota_mtime: '1371251554'
